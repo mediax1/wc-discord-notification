@@ -4,7 +4,7 @@ This WordPress plugin sends a notification to a Discord channel when a new produ
 
 **Installation**
 
-1. Download the plugin from [GitHub repository link]
+1. Download the plugin from https://github.com/mediax1/wc-discord-notification
 2. Upload the `wc-discord-notification` folder to your WordPress plugins directory (`wp-content/plugins`)
 3. Activate the plugin from the Plugins menu in your WordPress admin dashboard
 
